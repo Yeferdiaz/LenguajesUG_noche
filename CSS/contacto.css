@@ -1,0 +1,51 @@
+.container_img{
+    padding-top: 20px;
+}
+.col_img{
+    align-self: center;
+    text-align: center;
+}
+.rounded-circle{
+    width:150px;
+    height:150px;
+}
+
+.container_hv{
+    padding-top: 10px;    
+}
+.row{
+    align-items: center;
+    padding: 5px;
+}
+.col_contacto{
+    text-align: center;
+}
+.card-body {
+    flex: 1 1 auto;
+    padding: 0.3rem 0.3rem;
+    text-decoration: dark;
+    text-align: center;
+}
+.card{
+    border-color: #8d8e8f;
+} 
+.content_perfil{
+    padding-left: 40px;
+    padding-right: 30px;    
+}
+.card_perfil{
+    padding-top: 10px;
+    text-align: center;
+    margin: 2px;
+    border: 1px solid grey; 
+    border-radius: 60px;        
+}
+.text_perfilP{
+    text-align: justify;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+.footer{    
+    text-align:center
+}
