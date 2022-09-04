@@ -1,0 +1,48 @@
+.container_img{
+    padding-top: 20px;
+}
+.col_img{
+    align-self: center;
+}
+.rounded-circle{
+    width:150px;
+    height:150px;
+}
+.col_img{
+    text-align: center;
+}
+.container_hv{
+    padding-top: 10px;    
+}
+.row{
+    align-items: center;
+    padding: 5px;
+}
+.col_datosPersonales{
+    text-align: center;
+}
+.card-body {
+    flex: 1 1 auto;
+    padding: 0.3rem 0.3rem;
+    text-decoration: dark;
+    text-align: center;
+}
+.card{
+    border-color: #8d8e8f;
+} 
+
+.content_perfil{
+    padding-left: 40px;
+    padding-right: 30px;
+}
+
+.card_perfil{
+    width: 100rem; 
+    height: 5rem; 
+    margin: 2px; 
+    border: 1px solid grey; 
+    border-radius: 60px;    
+}
+.footer{    
+    text-align:center
+}

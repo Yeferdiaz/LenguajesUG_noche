@@ -1,0 +1,60 @@
+.header_title{
+    padding: 10px;
+    display: inline-flex;
+}
+
+.imagen_hv{
+    margin-left: 55px;   
+}
+
+.rounded-circle{
+    width: 150px; 
+    height: 150px;
+}
+
+.title_hv{
+    margin: 50px 400px 20px 300px;
+    text-align:center    
+}
+
+.tab-content{
+    padding: 10px;
+}
+
+.card_datosPersonales{
+    margin-left: 20px;
+}
+
+.card-body {
+    flex: 1 1 auto;
+    padding: 0.3rem 0.3rem;
+}
+
+.card-title{
+    text-align:center
+}
+
+.card-text{
+    text-align:center
+}
+
+.card{
+    border-color: #8d8e8f;
+}  
+
+.content_perfil{
+    padding-left: 40px;
+    padding-right: 30px;
+}
+
+.card_perfil{
+    width: 100rem; 
+    height: 5rem; 
+    margin: 2px; 
+    border: 1px solid grey; 
+    border-radius: 60px;    
+}
+
+.footer{    
+    text-align:center
+}
