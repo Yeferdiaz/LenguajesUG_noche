@@ -9,7 +9,6 @@
     width:150px;
     height:150px;
 }
-
 .container_hv{
     padding-top: 10px;    
 }
@@ -17,7 +16,7 @@
     align-items: center;
     padding: 5px;
 }
-.col_datosPersonales{
+.col_estudios{
     text-align: center;
 }
 .card-body {
@@ -28,7 +27,7 @@
 }
 .card{
     border-color: #8d8e8f;
-} 
+}
 .content_perfil{
     padding-left: 40px;
     padding-right: 30px;    
